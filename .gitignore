@@ -1,0 +1,5 @@
+# Unity build files/folders
+**/Library/
+**/ProjectSettings/
+**/Temp/
+**/.userprefs
