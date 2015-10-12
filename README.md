@@ -1,6 +1,6 @@
 #Group Name
 ######Unity Projects - CG Fall 2015 @ Rutgers
-######By: *[Leader], [Member1], [Member2], [Member3]*
+######By: *Gibran Garcia, Harry Stern, Harrison Truong, Isabel Santos*
 Check out our website: [Group Name Website](https://www.google.com "Google's Homepage!")
 
 ![alt text](teamLogo.png)
