@@ -1,12 +1,12 @@
 #Group Name
 ######Unity Projects - CG Fall 2015 @ Rutgers
-######By: *[Leader], [Member1], [Member2], [Member3]*
+######By: *Laura Tran, Tae-Min Kim*
 Check out our website: [Group Name Website](https://www.google.com "Google's Homepage!")
 
 ![alt text](teamLogo.png)
 
 ###B1: Navigation and Animation
-1. I am a fun project!
+1. First Group Assignment using Unity to show off Unity's navigation and animation engines
 2. Features
 3. Description
 
